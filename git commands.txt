@@ -1,0 +1,5 @@
+# git status  ---> To check the status
+# git add <file_name> ---> To check the status
+# git commit -m "Add new files" ---> to save the changes in working directory
+# git log --->to check commits
+# git push -f
